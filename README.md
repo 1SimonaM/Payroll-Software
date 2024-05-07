@@ -22,6 +22,11 @@ Combined use of dynamically updated HTML and CSS and powered by Javascript "fron
 Employee Payroll Tracker critiques and suggestions are welcome! 
 Feel free to open an issue or submit a pull request as appropriate, if you have any feedback.
 
+## Repo links: 
+
+https://1simonam.github.io/Payroll-Software/
+
+https://github.com/1SimonaM/Payroll-Software
 
 
 ## License
