@@ -18,11 +18,17 @@ The Employee Payroll Tracker application was developed for supervisors to stream
 
 Combined use of dynamically updated HTML and CSS and powered by Javascript "frontend stack" creates this responsive application project. 
 
+
 ## Contributing
+
 Employee Payroll Tracker critiques and suggestions are welcome! 
 Feel free to open an issue or submit a pull request as appropriate, if you have any feedback.
 
+https://github.com/juhuyoon
+
+
 ## Repo links: 
+
 
 https://1simonam.github.io/Payroll-Software/
 
