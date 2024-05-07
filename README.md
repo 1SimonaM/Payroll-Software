@@ -2,6 +2,7 @@
 
 The Employee Payroll Tracker application was developed for supervisors to streamline and manage employees data and compensation. Supervisors can perform routine tasks related to employee payroll management using this user-friendly interface. 
 
+
 ## Features
 - View existing employees' list of payroll information;
 - Edit existing employees details;
@@ -27,8 +28,7 @@ Feel free to open an issue or submit a pull request as appropriate, if you have 
 https://github.com/juhuyoon
 
 
-## Repo links: 
-
+## Links
 
 https://1simonam.github.io/Payroll-Software/
 
